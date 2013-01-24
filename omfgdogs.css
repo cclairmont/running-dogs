@@ -1,0 +1,15 @@
+body {
+    background-image:url('assets/omfgdogs.gif');
+    background-repeat:repeat;
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+}
+
+#link {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: grey;
+}
+    
